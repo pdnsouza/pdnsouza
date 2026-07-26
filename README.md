@@ -30,7 +30,7 @@
 
 Olá! Eu sou **Pablo Danniel**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
 
-Atualmente estou focado em **desenvolvimento back-end**, estudando **Python, PHP, MySQL, Git e GitHub**, além de explorar **Inteligência Artificial** e **APIs REST**.
+Atualmente estou dedicado aos estudos de **Python** e explorando conceitos de **Inteligência Artificial**, utilizando este GitHub para compartilhar minha evolução e meus projetos.
 
 ## 👨‍💻 Sobre mim
 
