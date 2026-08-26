@@ -20,11 +20,7 @@
 
 # 👋 Olá!
 
-Sou **Pablo Danniel**, estudante de **Análise e Desenvolvimento de Sistemas**.
-
-Atualmente estou estudando **Python**, fortalecendo minha base em programação e construindo projetos para desenvolver minhas habilidades.
-
-Este GitHub reúne minha evolução, estudos e projetos ao longo da minha jornada.
+Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática pelo Senac, com conhecimentos em JavaScript, PHP, SQL, MySQL, HTML e CSS. Atualmente, desenvolvendo habilidades em Python, lógica de programação, algoritmos e Inteligência Artificial por meio de estudos e projetos práticos. Busco oportunidade de estágio ou posição Júnior em Back-end, com o objetivo de aplicar meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente na área de tecnologia.
 
 ---
 
